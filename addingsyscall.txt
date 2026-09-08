@@ -1,0 +1,8 @@
+1. add to syscall.h
+2. add prototype to defs.h and user.h
+3. add to sysproc.c
+4. add to usys.s
+5. syscall.c
+6. proc.c
+7. file for command newfile.c
+8. Makefile
